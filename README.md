@@ -7,8 +7,8 @@
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/)
-- [TypeScript][typescript]
-- [React][reactjs]
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
 
 ## Todos os comandos devem ser executados no terminal!
 
