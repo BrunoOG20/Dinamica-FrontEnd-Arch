@@ -34,7 +34,7 @@ $ yarn start
 # running on port 3000 
 ```
 
-### Projeto final!
+## 🎉 Projeto final!
 
 
 ![monitorok2](https://user-images.githubusercontent.com/72823794/113741328-e770da80-96d7-11eb-8797-b41ba840839d.png)
