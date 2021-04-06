@@ -1,6 +1,6 @@
 <h1 align="center">Dinâmica ArcH 🖥</h1>
 
-<h3>Este projeto foi realizado, com o objetivo de ser mais um colaborador da empresa ArcHOffice</h3>
+<h2>Este projeto foi realizado, com o objetivo de ser mais um colaborador da empresa ArcHOffice</h2>
 
 ## :rocket: Tecnologias
 
@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - [TypeScript][typescript]
 - [React][reactjs]
 
-<strong>▶ Todos os comandos devem ser executados no terminal!</strong>
+##Todos os comandos devem ser executados no terminal!
 
 Baixe a extensão React icons: <br>
 `npm install react-icons --save` ou `yarn add react-icons`
