@@ -10,7 +10,9 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - [TypeScript][typescript]
 - [React][reactjs]
 
-##Todos os comandos devem ser executados no terminal!
+## Todos os comandos devem ser executados no terminal!
+
+## :information_source: Como usar
 
 Baixe a extensão React icons: <br>
 `npm install react-icons --save` ou `yarn add react-icons`
