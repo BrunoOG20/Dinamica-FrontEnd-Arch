@@ -2,18 +2,41 @@
 
 <h3>Este projeto foi realizado, com o objetivo de ser mais um colaborador da empresa ArcHOffice</h3>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido usando as seguintes tecnologias:
+
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+- [React][reactjs]
+
 <strong>▶ Todos os comandos devem ser executados no terminal!</strong>
 
 Baixe a extensão React icons: <br>
 `npm install react-icons --save` ou `yarn add react-icons`
 
-Para iniciar o projeto no seu editor de texto basta digitar esse comando no terminal:<br>
-`yarn start` ou `npm start`
+### Instalar Front-end
+```bash
+# Clonar esse repositório
+$ git clone https://github.com/andreocunha/Dinamica-FrontEnd-Arch.git
 
-Após você rodar esse comando o própio yarn vai abrir uma guia no seu navegador `http://localhost:3000` e lá vai ser onde você vai ver o projeto!
-<br>
+# Vá para o ropositório
+$ cd Dinamica-FrontEnd-Arch
 
-◾ Essa é a landing page do site a primeira página que o usuário vai acessar. E a partir dessa página você pode navegar pelo site inteiro
+# Instale as dependências
+$ yarn install
+
+# Execute
+$ yarn start
+
+# running on port 3000 
+```
+
+### Projeto final!
+
 
 ![monitorok2](https://user-images.githubusercontent.com/72823794/113741328-e770da80-96d7-11eb-8797-b41ba840839d.png)
+
+
+
 
