@@ -1,6 +1,6 @@
 <h1 align="center">Dinâmica ArcH 🖥</h1>
 
-<h3>Este projeto foi feito para concorrer uma vaga para ser mais um colaborador na empresa ArcHOffice</h3>
+<h3>Este projeto foi realizado, com o objetivo de ser mais um colaborador da empresa ArcHOffice</h3>
 
 <strong>▶ Todos os comandos devem ser executados no terminal!</strong>
 
