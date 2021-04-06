@@ -5,5 +5,6 @@
 Para iniciar o projeto no seu editor de texto basta dar esse comando:
 `yarn start`
 
-[http://localhost:3000
+Após você rodar esse comando o própio yarn vai abrir uma guia no seu navegador `http://localhost:3000` e lá vai ser onde você vai ver o projeto!
+
 
