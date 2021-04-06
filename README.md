@@ -1,6 +1,6 @@
 <h1 align="center">Dinâmica ArcH 🖥</h1>
 
-<p>Este projeto foi feito para concorrer uma vaga para ser mais um colaborador na empresa ArcHOffice</p>
+<h3>Este projeto foi feito para concorrer uma vaga para ser mais um colaborador na empresa ArcHOffice</h3>
 
 Baixe a extensão React icons `npm install react-icons --save` ou `yarn add react-icons`
 
