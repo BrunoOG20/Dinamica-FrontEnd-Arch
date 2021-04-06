@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 ## Instalar Front-end
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/andreocunha/Dinamica-FrontEnd-Arch.git
+$ git clone https://github.com/BrunoOG20/Dinamica-FrontEnd-Arch.git
 
 # Vá para o ropositório
 $ cd Dinamica-FrontEnd-Arch
