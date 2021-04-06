@@ -1,0 +1,151 @@
+header{
+    padding:20px 0 ;
+    background-color: #1d1d1d;
+    color: #1d1d1d;
+    box-shadow: 2px 3px 3px rgb(236, 177, 12);
+    font-weight: 600;
+    
+    align-items: center;
+    justify-items: center;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+ul{
+    margin-top: -50px;
+    margin-right: 10px;
+}
+
+.clear {
+ clear: both;
+}
+
+.logo{
+    display: inline;
+    float: left;
+}
+
+.logo, .menu-bars{
+    display: flex;
+    padding: 0 16px;
+    margin-top: 5px;
+}
+
+.logo img{
+    width: 10%; 
+    height: 10%;
+}
+
+nav.menu-desktop{
+    float: right;
+}
+
+nav.menu-desktop{
+    float: right;
+}
+
+nav.menu-desktop li{
+    margin-top: 12px;
+    padding: 0 12px;
+    display: inline-block;
+    color: #fff;
+
+    cursor: pointer;
+}
+
+input{
+    background-color: #1d1d1d;
+    color: #fff;
+    border: none;
+
+    outline: none;
+}
+
+input::placeholder{
+    color: #fff;
+}
+
+input:hover, input:focus {
+    border-bottom: 2px solid rgb(236, 177, 12);
+}
+
+.notify::after, .logout::after{
+	content: '';
+	display: block;
+	background: rgb(236, 177, 12);
+	width: 0;
+	height: 2px;
+	border-radius: 200px;
+	margin: 2px auto 2px auto;
+	transition: all .2s ease;
+    cursor: pointer;
+}
+
+.notify:hover::after, .logout:hover::after{
+	width: 100%;
+}
+
+.logout {
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.logout {
+    position: relative;
+    display: inline-block;
+}
+  
+.logout-content {
+    display: none;
+    margin-left: -4.6rem;
+    margin-top: 0.3rem;
+    position: absolute;
+    background-color: #1d1d1d;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.logout-content h4 {
+    color: #fff;
+    padding: 12px 16px;
+    display: block;
+} 
+
+.logout-content a{
+    text-decoration: none;
+}
+
+
+.logout-content h4:hover {
+    background-color: orange;
+}
+  
+.logout:hover .logout-content {
+    display: block;
+}
+
+
+@media (max-width: 600px){
+    .logo{
+        margin: 0;
+        align-items: center;
+        justify-items: center;
+    }
+    .logo img{
+        width: 20%;
+        height: 20%;
+    }
+
+    ul{
+        margin-top: 20px;  
+    }
+
+}

@@ -1,0 +1,41 @@
+.banner img{
+    margin-top: 0;
+    margin-bottom: -1rem;
+    width: 1361px;
+    height: 600px;
+
+    background-size: cover;
+}
+
+@media (max-width: 1280px){
+    .banner img{
+        width: 1280px;
+        height: 525px;
+
+    }
+}
+
+@media (max-width: 600px){
+    .banner img{
+        width: 393px;
+        height: 200px;
+
+    }
+}
+
+@media (max-width: 900px){
+    .banner img{
+        width: 389px;
+        height: 500px;
+
+    }
+}
+
+@media (max-width: 740px){
+    .banner img{
+        width: 360px;
+        height: 500px;
+
+    }
+
+}

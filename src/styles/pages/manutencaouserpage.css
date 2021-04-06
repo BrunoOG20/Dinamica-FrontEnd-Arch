@@ -1,0 +1,78 @@
+div > h2{
+  color: black;
+
+  margin-top: 2rem;
+  text-align: center;
+}
+
+table {
+  width:70%;
+  color: black;
+  margin-left: 13.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 8rem;
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+table td:nth-child(1){
+  text-align: center;
+}
+
+table td:nth-child(4){
+  text-align: center;
+}
+
+table td:nth-child(5){
+  text-align: center;
+  cursor: pointer;
+}
+
+
+
+table th{
+  background-color: rgba(236, 187, 49, 0.562);
+}
+
+.online {
+  text-align: center;
+
+  color: #FFF;
+  background-color: rgb(32, 158, 32);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.offline {
+  text-align: center;
+
+  color: #FFF;
+  background-color: rgb(255, 37, 37);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.linha{
+  width: 180px;
+  padding: 2px;
+  margin-left: 35rem;
+  background-color: rgba(236, 187, 49);
+  border-radius: 10px;
+}
+
+
+@media (max-width: 800px){
+  table{
+    width: 20%;
+    margin-left: 0.2rem;
+    margin-bottom: 8rem;
+  }
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #FFF;
+    background: #ebf2f5;
+}
+
+body, input, button, textarea{
+    font: 200 18px Poppins, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width:5px;
+    height: 5px;
+    
+}
+
+::-webkit-scrollbar-track {
+background:rgb(48, 48, 48);
+}
+
+::-webkit-scrollbar-thumb {
+background: #e4a51f;
+border-radius: 10px;
+}

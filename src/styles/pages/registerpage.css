@@ -1,0 +1,146 @@
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+    font-family: Archivo;
+    margin-bottom: 5rem;
+}
+
+.card{
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.card-top{
+    text-align: center;
+}
+
+.card-top h2 {
+    margin-top: 20px;
+    margin-left: -150px;
+}
+
+.card-top img{
+    width: 40%;
+    height: 40%;
+}
+
+.card-group{
+    margin-bottom: 10px;
+}
+
+.card-group > label{
+    width: 100%;
+    color: rgb(25, 25, 25);
+    padding: 5px;
+    display: block;
+    font-family: Poppins;
+}
+
+.card-group > input{
+    outline: 0;
+    color: black;
+    width: 100%;
+    height: 30px;
+    font-family: Poppins;
+    padding: 0 0 0 5px;
+    border-bottom: 2px solid black;
+    font-size: 18px;
+    background: transparent;
+    transition-duration: .2s
+}
+
+.card-group > input:focus{
+    border-bottom: 2px solid orange;
+}
+
+
+.card-group button#confirm {
+    display: inline-block;
+    width: 339px;
+    padding: 8px;
+    margin-top: 30px;
+    margin-left: 0px;
+    background-color:#fff;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    font-size: 1rem;
+    cursor: pointer;
+    transition-duration: .3s
+}
+
+.card-group a{
+    margin-left: 5rem;
+}
+
+.title{
+    color: black;
+    font-family: Poppins;
+}
+
+.termo-service{
+    color: black;
+    font-family: Poppins;
+}
+
+button#confirm:hover {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+button{
+    cursor: pointer;
+}
+
+input:checked{
+    background-color: blue;
+}
+
+.login{
+    font-family: Poppins;
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+    margin-left: 2rem;
+}
+
+.login a{
+    color: rgb(236, 175, 6);
+}
+
+@media (max-width: 600px){
+    .form{
+        margin:0;
+    }
+    .card-top{
+        align-items: center;
+        justify-content: center;
+    }
+    .card-group{
+        margin-left: 0px;
+    }
+    .card-group > input{
+        width: 90%;
+    }
+
+    .form{
+        width: 360px;
+        margin-bottom: 2rem;
+    }
+
+    .card-group button#confirm {
+        margin-left: 9px;
+        width: 86%;
+    }
+
+}
+
+@media (min-height: 1025px){
+    .form{
+        margin-left: 16rem;
+        margin-bottom: 2rem;
+        width: 400px;
+    }
+}
