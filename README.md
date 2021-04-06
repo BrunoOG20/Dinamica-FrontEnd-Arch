@@ -2,7 +2,7 @@
 
 <h3>Este projeto foi feito para concorrer uma vaga para ser mais um colaborador na empresa ArcHOffice</h3>
 
-###Todos os comandos devem ser executados no terminal!
+<strong>Todos os comandos devem ser executados no terminal!</strong>
 
 Baixe a extensão React icons: <br>
 `npm install react-icons --save` ou `yarn add react-icons`
