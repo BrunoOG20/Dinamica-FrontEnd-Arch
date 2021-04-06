@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 ## Baixe a extensão React icons: <br>
 `npm install react-icons --save` ou `yarn add react-icons`
 
-### Instalar Front-end
+## Instalar Front-end
 ```bash
 # Clonar esse repositório
 $ git clone https://github.com/andreocunha/Dinamica-FrontEnd-Arch.git
