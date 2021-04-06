@@ -6,7 +6,7 @@
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
-- [Node.js][nodejs]
+- [Node.js][nodejs](https://nodejs.org/)
 - [TypeScript][typescript]
 - [React][reactjs]
 
