@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## :information_source: Como usar
 
-## Instalar Front-end
+### Instalar Front-end
 ```bash
 # Clonar esse repositório
 $ git clone https://github.com/BrunoOG20/Dinamica-FrontEnd-Arch.git
